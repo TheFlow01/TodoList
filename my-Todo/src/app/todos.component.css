@@ -1,0 +1,19 @@
+    .title {
+      background-color: blueviolet;
+      padding: 46px 26px 26px 16px;
+      color: white;
+      font-weight: normal;
+    }
+
+    h1, h2 {
+      margin: 0;
+      font-weight: normal;
+    }
+
+    h1 {
+      margin-bottom: 16px;
+    }
+
+    app-add-todo ,app-todo-list {
+      border-bottom: 1px solid #cccccc;
+    }
